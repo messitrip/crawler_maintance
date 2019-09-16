@@ -1,11 +1,9 @@
-
-to_finds = [
-    {"pcode":"EWP376191014KEM"}
-]
-
-
-
 if __name__ == '__main__':
+    import json
+
+    with open("to_finds.json","r") as f:
+        to_finds = json.load(f)
+
     import requests
     import json
     import pprint
