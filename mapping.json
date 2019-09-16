@@ -1,0 +1,114 @@
+{
+        1: {
+        "agency_code": "HANA",
+        "name": "하나투어"
+    },
+        2: {
+        "agency_code": "TOWK",
+        "name": "투어2000"
+    },
+        3: {
+        "agency_code": "MODE",
+        "name": "모두두어"
+    },
+        4:  {
+        "agency_code":  "YELL",
+         "name":  "노랑풍선"
+    },
+        5:  {
+        "agency_code":  "WIND",
+         "name":  "하얀풍차투어"
+    },
+        6:  {
+        "agency_code":  "REDC",
+         "name":  "레드캡투어"
+    },
+        7:  {
+        "agency_code":  "BABO",
+         "name":  "KRT"
+    },
+        8:  {
+        "agency_code":  "LOTT",
+         "name":  "롯데관광"
+    },
+        9:  {
+        "agency_code":  "LINE",
+         "name":  "온라인"
+    },
+        10:  {
+        "agency_code":  "AIRT",
+         "name":  "에어텔닷컴"
+    },
+        11:  {
+        "agency_code":  "FREE",
+         "name":  "자유투어"
+    },
+        12:  {
+        "agency_code":  "NURI",
+         "name":  "온누리투어"
+    },
+        13:  {
+        "agency_code":  "BOML",
+         "name":  "보물섬투어"
+    },
+        14:  {
+        "agency_code":  "BELL",
+         "name":  "투어벨"
+    },
+        15:  {
+        "agency_code":  "LJTB",
+         "name":  "롯데제이티"
+    },
+        16:  {
+        "agency_code":  "SAMS",
+         "name":  "삼성여행사"
+    },
+        17:  {
+        "agency_code":  "WEBT",
+         "name":  "웹투어"
+    },
+        18:  {
+        "agency_code":  "ONFI",
+         "name":  "온필"
+    },
+        19:  {
+        "agency_code":  "INTE",
+         "name":  "인터파크투어"
+    },
+        20:  {
+        "agency_code":  "CHAM",
+         "name":  "참좋은여행"
+    },
+        21:  {
+        "agency_code":  "BAKS",
+         "name":  "여행박사"
+    },
+        22:  {
+        "agency_code":  "MREU",
+         "name":  "미스터유럽"
+    },
+        23:  {
+        "agency_code":  "HANJ",
+         "name":  "한진관광"
+    },
+        24:  {
+        "agency_code":  "ONLY",
+         "name":  "세상에없는여행"
+    },
+        25:  {
+        "agency_code":  "ESES",
+         "name":  "ES투어"
+    },
+        26:  {
+        "agency_code":  "HOLY",
+         "name":  "홀리랜드여행사"
+    },
+        27:  {
+        "agency_code":  "SEYA",
+         "name":  "세양여행사"
+    },
+        28:  {
+        "agency_code":  "TPON",
+         "name":  "투어폰여행사"
+    }
+}

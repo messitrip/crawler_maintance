@@ -3,3 +3,4 @@ venv
 *.json
 crawled.txt
 request.txt
+!mapping.json
