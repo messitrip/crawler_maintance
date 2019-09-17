@@ -1,5 +1,7 @@
 venv
 .idea
+.benchmarks
+
 *.json
 crawled.txt
 request.txt

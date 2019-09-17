@@ -1,114 +1,142 @@
 {
-        1: {
+        "1": {
         "agency_code": "HANA",
-        "name": "하나투어"
+        "name": "하나투어",
+		"crawler":2
     },
-        2: {
-        "agency_code": "TOWK",
-        "name": "투어2000"
+        "2": {
+        "agency_code": "TWOK",
+        "name": "투어2000",
+		"crawler":1
     },
-        3: {
+        "3": {
         "agency_code": "MODE",
-        "name": "모두두어"
+        "name": "모두투어",
+		"crawler":3
     },
-        4:  {
+        "4":  {
         "agency_code":  "YELL",
-         "name":  "노랑풍선"
+         "name":  "노랑풍선",
+		"crawler":1
     },
-        5:  {
+        "5":  {
         "agency_code":  "WIND",
-         "name":  "하얀풍차투어"
+         "name":  "하얀풍차투어",
+		"crawler":1
     },
-        6:  {
+        "6":  {
         "agency_code":  "REDC",
-         "name":  "레드캡투어"
+         "name":  "레드캡투어",
+		"crawler":1
     },
-        7:  {
+        "7":  {
         "agency_code":  "BABO",
-         "name":  "KRT"
+         "name":  "KRT",
+		"crawler":3
     },
-        8:  {
+        "8":  {
         "agency_code":  "LOTT",
-         "name":  "롯데관광"
+         "name":  "롯데관광",
+		"crawler":3
     },
-        9:  {
+        "9":  {
         "agency_code":  "LINE",
-         "name":  "온라인"
+         "name":  "온라인",
+		"crawler":1
     },
-        10:  {
+        "10":  {
         "agency_code":  "AIRT",
-         "name":  "에어텔닷컴"
+         "name":  "에어텔닷컴",
+		"crawler":2
     },
-        11:  {
+        "11":  {
         "agency_code":  "FREE",
-         "name":  "자유투어"
+         "name":  "자유투어",
+		"crawler":3
     },
-        12:  {
+        "12":  {
         "agency_code":  "NURI",
-         "name":  "온누리투어"
+         "name":  "온누리투어",
+		"crawler":1
     },
-        13:  {
+        "13":  {
         "agency_code":  "BOML",
-         "name":  "보물섬투어"
+         "name":  "보물섬투어",
+		"crawler":1
     },
-        14:  {
+        "14":  {
         "agency_code":  "BELL",
-         "name":  "투어벨"
+         "name":  "투어벨",
+		"crawler":2
     },
-        15:  {
+        "15":  {
         "agency_code":  "LJTB",
-         "name":  "롯데제이티"
+         "name":  "롯데제이티",
+		"crawler":1
     },
-        16:  {
+        "16":  {
         "agency_code":  "SAMS",
-         "name":  "삼성여행사"
+         "name":  "삼성여행사",
+		"crawler":3
     },
-        17:  {
+        "17":  {
         "agency_code":  "WEBT",
-         "name":  "웹투어"
+         "name":  "웹투어",
+		"crawler":2
     },
-        18:  {
+        "18":  {
         "agency_code":  "ONFI",
-         "name":  "온필"
+         "name":  "온필",
+		"crawler":1
     },
-        19:  {
+        "19":  {
         "agency_code":  "INTE",
-         "name":  "인터파크투어"
+         "name":  "인터파크투어",
+		"crawler":0
     },
-        20:  {
+        "20":  {
         "agency_code":  "CHAM",
-         "name":  "참좋은여행"
+         "name":  "참좋은여행",
+		"crawler":0
     },
-        21:  {
+        "21":  {
         "agency_code":  "BAKS",
-         "name":  "여행박사"
+         "name":  "여행박사",
+		"crawler":2
     },
-        22:  {
+        "22":  {
         "agency_code":  "MREU",
-         "name":  "미스터유럽"
+         "name":  "미스터유럽",
+		"crawler":2
     },
-        23:  {
+        "23":  {
         "agency_code":  "HANJ",
-         "name":  "한진관광"
+         "name":  "한진관광",
+		"crawler":2
     },
-        24:  {
+        "24":  {
         "agency_code":  "ONLY",
-         "name":  "세상에없는여행"
+         "name":  "세상에없는여행",
+		"crawler":0
     },
-        25:  {
+        "25":  {
         "agency_code":  "ESES",
-         "name":  "ES투어"
+         "name":  "ES투어",
+		"crawler":0
     },
-        26:  {
+        "26":  {
         "agency_code":  "HOLY",
-         "name":  "홀리랜드여행사"
+         "name":  "홀리랜드여행사",
+		"crawler":0
     },
-        27:  {
+        "27":  {
         "agency_code":  "SEYA",
-         "name":  "세양여행사"
+         "name":  "세양여행사",
+		"crawler":0
     },
-        28:  {
+        "28":  {
         "agency_code":  "TPON",
-         "name":  "투어폰여행사"
+         "name":  "투어폰여행사",
+		"crawler":0
     }
 }
